@@ -13,8 +13,12 @@
 
 
  📫 Get in touch: 
- <a href="https://www.linkedin.com/in/astha-kumari-256b411ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"    alt="asthakri50" height="30" width="40" /></a>- [linkedin.com/in/astha-kumari](https://www.linkedin.com/in/astha-kumari-256b411ab/)
+ <a href="https://www.linkedin.com/in/astha-kumari-256b411ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"    alt="asthakri50" height="30" width="40" /></a>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthakri50&show_icons=true&locale=en&layout=compact" alt="asthakri50" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthakri50&show_icons=true&locale=en&layout=compact" alt="asthakri50" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthakri50&show_icons=true&locale=en" alt="asthakri50" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthakri50&show_icons=true&locale=en" alt="asthakri50" /></p> 
+
+
+ 
