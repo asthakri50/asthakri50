@@ -1,16 +1,15 @@
-### Hi there 👋
-
+                                           
+                                   ### Hi there 👋
 <!--
-**asthakri50/asthakri50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asthakri50/asthakri50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+                          
+I'm Astha Kumari, second year undergraduate student. I am passionate about technologies and open source contribution.
 
-Here are some ideas to get you started:
+🔭 I’m a Competitive Programmer
+🌱 I’m currently learning Data Structures and Algorithms
+💬 Hobbies : Reading Blogs
+⚡ Languages: Java  , Python
+📫 Get in touch: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+astha.kri50@gmail.com
+https://www.linkedin.com/in/astha-kumari-256b411ab/
