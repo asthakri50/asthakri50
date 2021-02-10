@@ -8,13 +8,13 @@
 - 💻 I'm second year undergraduate student.
 - 🔭 I’m a Competitive Programmer and open source enthusiatic.
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💬 Hobbies : Reading and Writing Blogs, Cooking
-- ⚡ Languages: Java
+- 💬 Hobbies : Reading Blogs and Watching videos
+- ⚡ Languages: Java , Python3
 
 
  📫 Get in touch: 
-- [linkedin.com/in/astha-kumari](https://www.linkedin.com/in/astha-kumari-256b411ab/)
+ <a href="https://www.linkedin.com/in/astha-kumari-256b411ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"    alt="asthakri50" height="30" width="40" /></a>- [linkedin.com/in/astha-kumari](https://www.linkedin.com/in/astha-kumari-256b411ab/)
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthakri50&show_icons=true&locale=en&layout=compact" alt="asthakri50" /></p>
 
-
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthakri50&show_icons=true&locale=en" alt="asthakri50" /></p>  
