@@ -5,11 +5,11 @@
    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 💻 I'm second year undergraduate student.
+- 💻 I'm a second year undergraduate student.
 - 🔭 I’m a Competitive Programmer and open source enthusiatic.
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💬 Hobbies : Reading Blogs and Watching videos
-- ⚡ Languages: Java , Python3
+- 💬 Hobbies : Reading Blogs and watching videos
+- ⚡ Languages: Java , Python3 , HTML , CSS 
 
 
  📫 Get in touch: 
